@@ -1,4 +1,7 @@
-# api documentation for  [gulp-angular-embed-templates (v2.3.0)](https://github.com/laxa1986/gulp-angular-embed-templates)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-angular-embed-templates.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-angular-embed-templates) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-angular-embed-templates.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-angular-embed-templates)
+# npmdoc-gulp-angular-embed-templates
+
+#### api documentation for  [gulp-angular-embed-templates (v2.3.0)](https://github.com/laxa1986/gulp-angular-embed-templates)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-angular-embed-templates.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-angular-embed-templates) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-angular-embed-templates.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-angular-embed-templates)
+
 #### gulp plugin to include the contents of angular templates inside directive's code
 
 [![NPM](https://nodei.co/npm/gulp-angular-embed-templates.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-angular-embed-templates)
@@ -77,7 +80,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "2.3.0"
+    "version": "2.3.0",
+    "bin": {}
 }
 ```
 
